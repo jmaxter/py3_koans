@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled 
+e12e38221f58e540d5a75c5f7ac2e101a936793b refs/remotes/origin/answers
+b09e03fecf4f0790f4a06ace59c8b30d06620917 refs/remotes/origin/gh-pages
+71bc33067e6fa417182bcb9994fecfd7f8b898ac refs/remotes/origin/master
+d0f89e6f562aff1151d213a19934131edc9c8aa7 refs/remotes/origin/python2.5
+c564effbf6444c682f79c3c960614b573ffa2968 refs/remotes/origin/readme-updates-and-thankyous
+34c14449c4cf5910b90066fc164b04c8f776ef0a refs/remotes/origin/travis_test
+01a65bbdda4a7b4d439e165f10ba61a238e8a7ce refs/remotes/origin/use-latest-version
